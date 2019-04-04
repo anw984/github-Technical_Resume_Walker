@@ -1,3 +1,7 @@
+My Name is Andrew Walker and I'm a student at The University of Tulsa. 
+I've spent the last 4 years learning everything relating to the Information Technology industry -- from object-oriented programming,  to SQL databases, and cybersecurity. 
+I'm currently applying this knowledge in my role as a Service Center Trainer for QuikTrip Corporation, where I'm responsible for      writing knowledge articles, performing initial and ongoing training for analysts, and collaborating with developers to align our     processes.
+
 <h1> Technical Skills and Certifications </h1>
 
 Click on the arrows below to expand added content for each technical skill
@@ -110,29 +114,6 @@ The 8 Power BI modules provided an overview of fundamental data analysis and vis
   <li>Construct Connections to Servers</li>
   <li>Publish Power BI Dashboards and Reports</li>
   <li>DAX functions, Tables, and Filtering</li>
-</ul>
-
-</details>
-
-<br>
-
-<details><summary>POWERSHELL</summary>
-
-<h5> Description: </h5>
-Completed PowerShell course offered by EdX at https://www.edx.org/course/windows-powershell-basics-1 
-
-The course is an introduction to Windows PowerShell where you learn to create your own scripts for automated batch processing. Discover how to replace manual, repetitive, and time-consuming operations with an automated solution for both local and remote scenarios.
-
-<ul>
-<li>How to access Windows PowerShell through the Console and the Integrated Scripting Environment (ISE)</li>
-<li>How to use the Windows PowerShell Help, and basic command syntax</li>
-<li>Effective use of the help system</li>
-<li>How the pipeline works, and how to discover object members</li>
-<li>How to use comparison operators, filtering, and enumeration</li>
-<li>How to define and use variables and arrays</li>
-<li>How to access PSProviders and PSDrives, including the file system providers</li>
-<li>How to use basic and advanced output formatting</li>
-<li>How to redirect output, and how to use grid views</li>
 </ul>
 
 </details>
