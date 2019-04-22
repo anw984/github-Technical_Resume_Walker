@@ -63,6 +63,10 @@ The LPI Linux Essentials course included an overview of the major components of 
   <li>Special Directories and Files</li>
 </ul>
 
+<h4> Course Completion: </h4>
+Linux LPI Essentials Course Completion Certificate:
+<img src="LinuCert.pdf" alt="Linux LPI Essentials Course Completion">
+
 </details>
 
 <br>
