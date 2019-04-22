@@ -64,8 +64,7 @@ The LPI Linux Essentials course included an overview of the major components of 
 </ul>
 
 <h4> Course Completion: </h4>
-Linux LPI Essentials Course Completion Certificate:
-<img src="LinuCert.pdf" alt="Linux LPI Essentials Course Completion">
+<img src="LinuxCert.pdf">
 
 </details>
 
@@ -96,6 +95,9 @@ The AWS Essentials course included an overview of fundamental Amazon Web Service
   <li>Route 53</li>
   <li>Serverless Compute</li>
 </ul>
+
+<h4> Course Completion: </h4>
+<img src="AWSCert.pdf">
 
 </details>
 
