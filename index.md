@@ -129,6 +129,10 @@ The 8 Power BI modules provided an overview of fundamental data analysis and vis
   <li>DAX functions, Tables, and Filtering</li>
 </ul>
 
+<h5> Opportunity Analysis Dashboard </h5>
+
+<img src="PowerBIDashboard.png" alt="Opportunity Analysis Dashboard">
+
 <h5> Course Completion: </h5>
 <img src="StartHere.png" alt="Power BI Certificate">
 <img src="0Intro.png" alt="Power BI Certificate">
