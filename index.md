@@ -30,7 +30,7 @@ The 12 GitHub labs include an overview of fundamental GitHub skills including:
 <li>Resolve bugs after a release</li>
 </ul>
 
-<h4> Course Completion: </h4>
+<h5> Course Completion: </h5>
 <img src="1GitHub.png" alt="GitHub Completion">
 <img src="2GitHub.png" alt="GitHub Completion">
 <img src="3GitHub.png" alt="GitHub Completion">
@@ -70,7 +70,7 @@ The LPI Linux Essentials course included an overview of the major components of 
   <li>Special Directories and Files</li>
 </ul>
 
-<h4> Course Completion: </h4>
+<h5> Course Completion: </h5>
 <img src="LinuxCert.png" alt="LPI Linux Essentials Certificate">
 
 </details>
@@ -103,7 +103,7 @@ The AWS Essentials course included an overview of fundamental Amazon Web Service
   <li>Serverless Compute</li>
 </ul>
 
-<h4> Course Completion: </h4>
+<h5> Course Completion: </h5>
 <img src="AWScert.png" alt="AWS Essentials Certification">
 
 </details>
@@ -129,7 +129,7 @@ The 8 Power BI modules provided an overview of fundamental data analysis and vis
   <li>DAX functions, Tables, and Filtering</li>
 </ul>
 
-<h4> Course Completion: </h4>
+<h5> Course Completion: </h5>
 <img src="StartHere.png" alt="Power BI Certificate">
 <img src="0Intro.png" alt="Power BI Certificate">
 <img src="1PowerBI.png" alt="Power BI Certificate">
@@ -150,6 +150,30 @@ The 8 Power BI modules provided an overview of fundamental data analysis and vis
 </details>
 
 <br>
+
+<details>
+  <summary>Virtual Private Network</summary>
+
+<h5> Description: </h5>
+Set up IPsec VPN cloud server in DigitalOcean using open source ansible scripts form https://github.com/trailofbits/algo
+Set up OpenVPN cloud server on Ubuntu 18.04 in Digital Ocean https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04
+
+The 12 GitHub labs include an overview of fundamental GitHub skills including:
+<ul>
+<li>Algo IPSec VPN automatically deploys an on-demand VPN service in the cloud that is not shared with other users</li>
+<li>OpenVPN is a full-featured, open-source Secure Socket Layer (SSL) VPN solution that accommodates a wide range of configurations</li>
+<li>Configured to access it from Windows, macOS, iOS and/or Android</li>
+<li>Both VPNs install to DigitalOcean, Amazon, Google, Azure or your own server</li>
+
+</ul>
+
+<h5> Course Completion: </h5>
+<img src="1GitHub.png" alt="GitHub Completion">
+<img src="2GitHub.png" alt="GitHub Completion">
+<img src="3GitHub.png" alt="GitHub Completion">
+<img src="4GitHub.png" alt="GitHub Completion">
+
+</details>
 
 <h2> Certifications </h2>
 
