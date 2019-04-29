@@ -168,10 +168,8 @@ The 12 GitHub labs include an overview of fundamental GitHub skills including:
 </ul>
 
 <h5> Course Completion: </h5>
-<img src="1GitHub.png" alt="GitHub Completion">
-<img src="2GitHub.png" alt="GitHub Completion">
-<img src="3GitHub.png" alt="GitHub Completion">
-<img src="4GitHub.png" alt="GitHub Completion">
+<img src="VPNs.png" alt="VPN Completion">
+<img src="ProofVPN.png" alt="VPN Completion">
 
 </details>
 
