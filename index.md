@@ -149,6 +149,8 @@ The 8 Power BI modules provided an overview of fundamental data analysis and vis
 <details><summary> Security + </summary>
 
 <h5>Description:</h5>
+Throughout the Spring 2019 semester read CompTIA Security+ Get Certified Get Ahead SY0-501 Study Guide and plan to take the certification exam Summer 2019.
+
 The Security + certification offers an overview of important cybersecurity concepts including:
 
 <ul>
