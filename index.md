@@ -2,11 +2,11 @@ My Name is Andrew Walker and I'm a student at The University of Tulsa.
 I've spent the last 4 years learning everything relating to the Information Technology industry -- from object-oriented programming,  to SQL databases, and cybersecurity. 
 I'm currently applying this knowledge in my role as a Service Center Trainer for QuikTrip Corporation, where I'm responsible for      writing knowledge articles, performing initial and ongoing training for analysts, and collaborating with developers to align our     processes.
 
-<h1> Technical Skills and Certifications </h1>
+<h2> Technical Skills and Certifications </h2>
 
 Click on the arrows below to expand added content for each technical skill
 
-<h2> Technical Skills </h2>
+<h3> Technical Skills </h3>
 
 <details>
   <summary>GitHub</summary>
@@ -173,7 +173,7 @@ The 12 GitHub labs include an overview of fundamental GitHub skills including:
 
 </details>
 
-<h2> Certifications </h2>
+<h3> Certifications </h3>
 
 <details><summary> Security + </summary>
 
