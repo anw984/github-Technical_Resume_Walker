@@ -29,7 +29,6 @@ The 12 GitHub labs include an overview of fundamental GitHub skills including:
 <li>Automate and document release changes</li>
 <li>Resolve bugs after a release</li>
 </ul>
-</details>
 
 <h4> Course Completion: </h4>
 <img src="1GitHub.png" alt="GitHub Completion">
@@ -37,6 +36,7 @@ The 12 GitHub labs include an overview of fundamental GitHub skills including:
 <img src="3GitHub.png" alt="GitHub Completion">
 <img src="4GitHub.png" alt="GitHub Completion">
 
+</details>
 
 <br>
 
