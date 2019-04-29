@@ -64,7 +64,7 @@ The LPI Linux Essentials course included an overview of the major components of 
 </ul>
 
 <h4> Course Completion: </h4>
-<img src="LinuxCert.pdf">
+<img src="LinuxCert.png" alt="LPI Linux Essentials Certificate">
 
 </details>
 
@@ -97,7 +97,7 @@ The AWS Essentials course included an overview of fundamental Amazon Web Service
 </ul>
 
 <h4> Course Completion: </h4>
-<img src="AWSCert.pdf">
+<img src="AWScert.png" alt="AWS Essentials Certification">
 
 </details>
 
