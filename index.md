@@ -122,6 +122,24 @@ The 8 Power BI modules provided an overview of fundamental data analysis and vis
   <li>DAX functions, Tables, and Filtering</li>
 </ul>
 
+<h4> Course Completion: </h4>
+<img src="StartHere.png" alt="Power BI Certificate">
+<img src="0Intro.png" alt="Power BI Certificate">
+<img src="1PowerBI.png" alt="Power BI Certificate">
+<img src="1aPowerBI.png" alt="Power BI Certificate">
+<img src="2PowerBi.png" alt="Power BI Certificate">
+<img src="2aPowerBI.png" alt="Power BI Certificate">
+<img src="3PowerBI.png" alt="Power BI Certificate">
+<img src="3aPowerBI.png" alt="Power BI Certificate">
+<img src="3bPowerBI.png" alt="Power BI Certificate">
+<img src="4PowerBI.png" alt="Power BI Certificate">
+<img src="4aPowerBI.png" alt="Power BI Certificate">
+<img src="4bPowerBI.png" alt="Power BI Certificate">
+<img src="5PowerBI.png" alt="Power BI Certificate">
+<img src="6PowerBI.png" alt="Power BI Certificate">
+<img src="7PowerBI.png" alt="Power BI Certificate">
+<img src="8PowerBI.png" alt="Power BI Certificate">
+
 </details>
 
 <br>
