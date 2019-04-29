@@ -130,7 +130,7 @@ The 8 Power BI modules provided an overview of fundamental data analysis and vis
 </ul>
 
 <h5> Opportunity Analysis Dashboard </h5>
-
+A high-level overview of Microsoft's Opportunity Analysis dataset can be seen at https://www.youtube.com/watch?v=CZ7xIPqf9qQ
 <img src="PowerBIDashboard.png" alt="Opportunity Analysis Dashboard">
 
 <h5> Course Completion: </h5>
